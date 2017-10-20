@@ -154,11 +154,12 @@ header {
 }
 
 #navbar nav {
-  border-left: 1px solid #ccc;  
+  border-left: 1px solid #ccc;
 }
 
 #navbar nav a {
     display: inline-block;
+    width: 16.67%;
 }
 
 /*////////// LOGO //////////*/
